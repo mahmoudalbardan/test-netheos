@@ -9,12 +9,12 @@
 
 ## Results
 
-- test_1.pdf: 4568
+- test_1.pdf: **4568**
 
-- test_2.pdf: 22195
+- test_2.pdf: **22195**
 
-- test_3.pdf: 19155
+- test_3.pdf: **19155**
 
-- test_4.pdf: 19155
+- test_4.pdf: **19155**
 
-- test_6.pdf: 21371
+- test_6.pdf: **21371**
