@@ -4,7 +4,9 @@
 
 1 - Download the code and the files from github
 
-2 - Go the the directroy in your terminal and type: `python3 script.py --path [file path]` 
+2 - Go the the corresponding folder in your terminal and type: `python3 script.py --path [file path]` 
+
+example: `python3 script.py --path test_1.pdf` 
 
 
 ## Results
