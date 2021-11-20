@@ -1,4 +1,4 @@
-# test - netheos - Mahmoud - ALBARDAN
+# Compute offset of PDF files
 
 ## How to run 
 
